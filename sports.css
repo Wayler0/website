@@ -17,15 +17,21 @@ header nav ul{
 header nav ul li {
     text-align: center; 
     list-style: none;
-    background-color: darkgoldenrod;
+    background-color: yellow;
     padding: auto;
     border-radius: 3px;
     box-sizing: content-box;
-    box-shadow: 10px;
+    font-weight: 700;
+    color: #000;
 }
-.site-header__nav-button {
-    height: 20px;
-    color: gray;
+body {
+    display: block;
 }
+body div{
+    text-decoration: none;
+}
+h1 {
+    text-align: center;
+    font-size: xx-large;
 
-
+}
